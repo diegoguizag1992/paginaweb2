@@ -1,0 +1,25 @@
+.amigo{
+  margin-top: 85px;
+  margin-left: 475px; 
+  color: brown;
+}
+.linea{
+  border-width: 4px;
+  color: black;
+
+}
+
+#boton{
+
+  margin-top: 10px;
+  margin-left: 510px;
+}
+body{
+background-image: url("images/pexels-photo-69372.jpeg");
+background-position: 0% 0%,
+                        50% 50%;
+
+   background-size:     30px 30px,
+                        250px 250px,
+                        700px 450px;  
+}
